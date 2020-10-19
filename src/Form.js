@@ -15,7 +15,7 @@ const Form = () => {
   return (
     <>
       <div className="form-container">
-        <span className="close-btn"  onClick={refreshPage}>
+        <span className="close-btn" onClick={refreshPage}>
           ×
         </span>
         <div className="form-content-left">
